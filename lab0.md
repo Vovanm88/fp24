@@ -18,8 +18,7 @@
 
 ## Инструменты
 
-[Ionide ecosystem](https://ionide.io/):
-
+- [Ionide](https://ionide.io/):
 - Linter - [FSharpLint](https://github.com/fsprojects/FSharpLint)
 - Formatter - [Fantomas](https://fsprojects.github.io/fantomas/docs/index.html)
 
